@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+pillow
+requests[socks]
+sklearn
+userpass

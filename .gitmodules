@@ -1,0 +1,3 @@
+[submodule "decaptcha"]
+	path = decaptcha
+	url = git@github.com:bumzy/decaptcha.git
